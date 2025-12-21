@@ -59,7 +59,13 @@ Reproducible research and open science
     height="60"
   />
 </a>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AyushmanMallick)
+<a href="https://x.com/AyushmanMallick" target="_blank">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif"
+    alt="X (Twitter) Profile"
+    height="60"
+  />
+</a>
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmania2002@gmail.com)
 
 ---
