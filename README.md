@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <img 
-    src="assets/side-view-growing-plants.jpg"
+    src="assets-/side-view-growing-plants.jpg"
     alt="Plant genomics banner"
     width="100%"
   />
