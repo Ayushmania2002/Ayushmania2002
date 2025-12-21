@@ -6,7 +6,13 @@
   />
 </p>
 
-![Growing Plants](https://github.com/your-username/your-repo/blob/main/assets-/side-view-growing-plants.jpg?raw=true)
+<p align="center">
+  <img 
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGU5OWhoOGQ1eWFzOTh1dWRycnM2eGhxN3k5ejdiN3ZjaHpyY2JxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPhySvCRg3nuTqU/giphy.gif"
+    alt="Plant Growth Animation"
+    width="100%"
+  />
+</p>
 
 
 # 💫 About Me:
