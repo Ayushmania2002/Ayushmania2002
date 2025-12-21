@@ -66,7 +66,13 @@ Reproducible research and open science
     height="60"
   />
 </a>
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmania2002@gmail.com)
+<a href="mailto:ayushmania2002@gmail.com">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmttdGthN3k2M2J2bnpxOHhyaGhqeGRpcm95MWE1Y3ZkYjZzdmgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GDs9d9ctyvm3KEfyFM/giphy.gif"
+    alt="Email"
+    height="60"
+  />
+</a>
 
 ---
 
