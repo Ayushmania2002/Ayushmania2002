@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>My research interests lie in genome-wide regulatory analysis, cis-regulatory element discovery, and the development of scalable bioinformatics pipelines for large plant genomes. I have designed and implemented CYC-GS, a computational pipeline for cis-element identification across whole plant genomes, enabling high-throughput regulatory landscape analysis.<br><br>I actively work with Python and R for data analysis, pipeline development, and visualization, and I am particularly interested in applying machine learning and statistical approaches to solve complex problems in plant genomics and crop improvement.<br><br>Research interests:<br><br>Plant genomics and regulatory genomics<br><br>Cis-regulatory element discovery<br><br>Bioinformatics pipeline development<br><br>Data science applications in agriculture<br><br>Technical skills:<br><br>Programming: Python, R<br><br>Genomics & data analysis workflows<br><br>Reproducible research and open science
 
-(img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDY1MmNseTRtNXc4MGpxbmM1enF3YzAyeTB6aHNuazhob2hvZ2NhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPhySvCRg3nuTqU/giphy.gif")
+(img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI0NHI4ZWdjd2wwOG03bXZzYnhkaXgwMWd6OGpoY3UyOGYwanUwbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QhLi1PvRCMxsQ/giphy.gif")
 
 
 ## 🌐 Socials:
