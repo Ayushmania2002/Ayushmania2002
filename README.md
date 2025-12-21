@@ -52,7 +52,13 @@ Reproducible research and open science
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayushman%20Mallick-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-mallick-68490922b/)
+<a href="https://www.linkedin.com/in/ayushman-mallick-68490922b/" target="_blank">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
+    alt="LinkedIn Profile"
+    height="60"
+  />
+</a>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AyushmanMallick)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmania2002@gmail.com)
 
