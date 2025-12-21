@@ -5,11 +5,12 @@
     width="100%"
   />
 </p>
+
 <p align="center">
   <img 
     src="assets-/side-view-growing-plants.jpg"
-    alt="Plant genomics banner"
-    width="100%"
+    alt="Growing plants banner"
+    style="width:100%; max-height:320px; object-fit:cover;"
   />
 </p>
 
