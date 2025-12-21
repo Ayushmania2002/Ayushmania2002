@@ -18,13 +18,13 @@ Data science applications in agriculture<br><br>
 </td>
 <td valign="top" width="45%" style="border:none;">
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHloYmF4N2JrN2xhM2V3bnFtdWpjdDcwaDNiN2R5dDlicmExdWVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FbftyUnve2Cju/giphy.gif"
+<img src="https://media1.giphy.com/media/QhLi1PvRCMxsQ/giphy.gif"
      alt="Computational research animation"
      width="100%" style="border-radius:8px;"/>
 
 <br><br>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp2MG1vcno0a3RseTAzcXlwMW5qdnY0ZXB5MWdyeTF6dXg4YjRhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1US8nh5jtEKWM4YLCB/giphy.gif"
+<img src="https://media3.giphy.com/media/1US8nh5jtEKWM4YLCB/giphy.gif"
      alt="Plant science visualization"
      width="100%" style="border-radius:8px;"/>
 
@@ -32,23 +32,25 @@ Data science applications in agriculture<br><br>
 </tr>
 </table>
 
-> **Technical skills:**<br><br>
-**Programming:** Python, R<br><br>
-Genomics & data analysis workflows<br><br>
-Reproducible research and open science
+---
 
-![Plant Growing Time-lapse](https://media.giphy.com/media/QhLi1PvRCMxsQ/giphy.gif)
+## 🧰 Technical Skills
+
+**Programming:** Python, R  
+
+Genomics & data analysis workflows  
+Reproducible research and open science  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayushman-mallick-68490922b)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AyushmanMallick)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushmania2002@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -60,10 +62,10 @@ Reproducible research and open science
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Ayushmania2002&theme=dark&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayushmania2002&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmania2002&theme=dark&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushmania2002&theme=dark&layout=compact&langs_count=6)
 
 ---
 
@@ -84,3 +86,4 @@ Reproducible research and open science
 
 [![](https://visitcount.itsvg.in/api?id=Ayushmania2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
