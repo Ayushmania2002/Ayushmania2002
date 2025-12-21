@@ -1,16 +1,19 @@
 # 💫 About Me:
-I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>My research interests lie in genome-wide regulatory analysis, cis-regulatory element discovery, and the development of scalable bioinformatics pipelines for large plant genomes. I have designed and implemented CYC-GS, a computational pipeline for cis-element identification across whole plant genomes, enabling high-throughput regulatory landscape analysis.<br><br>I actively work with Python and R for data analysis, pipeline development, and visualization, and I am particularly interested in applying machine learning and statistical approaches to solve complex problems in plant genomics and crop improvement.<br><br><table>
+I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>My research interests lie in genome-wide regulatory analysis, cis-regulatory element discovery, and the development of scalable bioinformatics pipelines for large plant genomes. I have designed and implemented CYC-GS, a computational pipeline for cis-element identification across whole plant genomes, enabling high-throughput regulatory landscape analysis.<br><br>I actively work with Python and R for data analysis, pipeline development, and visualization, and I am particularly interested in applying machine learning and statistical approaches to solve complex problems in plant genomics and crop improvement.<br><br>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="top">
+<td valign="top" style="border:none;">
 
 <b>Research interests:</b><br><br>
 Plant genomics and regulatory genomics<br><br>
 Cis-regulatory element discovery<br><br>
 Bioinformatics pipeline development<br><br>
+Molecular Docking <br><br>
+Protein-Protein and Protein-DNA intearctions<br><br>
 Data science applications in agriculture<br><br>
 
 </td>
-<td valign="top" width="45%">
+<td valign="top" width="45%" style="border:none;">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHloYmF4N2JrN2xhM2V3bnFtdWpjdDcwaDNiN2R5dDlicmExdWVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FbftyUnve2Cju/giphy.gif"
      alt="Computational research animation"
