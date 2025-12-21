@@ -6,13 +6,8 @@
   />
 </p>
 
-<p align="center">
-  <img 
-    src="assets-/side-view-growing-plants.jpg"
-    alt="Growing plants banner"
-    style="width:100%; max-height:320px; object-fit:cover;"
-  />
-</p>
+![Growing Plants](https://github.com/your-username/your-repo/blob/main/assets/side-view-growing-plants.jpg?raw=true)
+
 
 # 💫 About Me:
 I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>
