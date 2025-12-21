@@ -5,6 +5,13 @@
     width="100%"
   />
 </p>
+<p align="center">
+  <img 
+    src="assets/side-view-growing-plants.jpg"
+    alt="Plant genomics banner"
+    width="100%"
+  />
+</p>
 
 # 💫 About Me:
 I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>
