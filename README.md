@@ -1,5 +1,25 @@
 # 💫 About Me:
-I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>My research interests lie in genome-wide regulatory analysis, cis-regulatory element discovery, and the development of scalable bioinformatics pipelines for large plant genomes. I have designed and implemented CYC-GS, a computational pipeline for cis-element identification across whole plant genomes, enabling high-throughput regulatory landscape analysis.<br><br>I actively work with Python and R for data analysis, pipeline development, and visualization, and I am particularly interested in applying machine learning and statistical approaches to solve complex problems in plant genomics and crop improvement.<br><br>Research interests:<br><br>Plant genomics and regulatory genomics<br><br>Cis-regulatory element discovery<br><br>Bioinformatics pipeline development<br><br>Data science applications in agriculture<br><br>Technical skills:<br><br>Programming: Python, R<br><br>Genomics & data analysis workflows<br><br>Reproducible research and open science
+I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>My research interests lie in genome-wide regulatory analysis, cis-regulatory element discovery, and the development of scalable bioinformatics pipelines for large plant genomes. I have designed and implemented CYC-GS, a computational pipeline for cis-element identification across whole plant genomes, enabling high-throughput regulatory landscape analysis.<br><br>I actively work with Python and R for data analysis, pipeline development, and visualization, and I am particularly interested in applying machine learning and statistical approaches to solve complex problems in plant genomics and crop improvement.<br><br><table>
+<tr>
+<td valign="top">
+
+<b>Research interests:</b><br><br>
+Plant genomics and regulatory genomics<br><br>
+Cis-regulatory element discovery<br><br>
+Bioinformatics pipeline development<br><br>
+Data science applications in agriculture<br><br>
+
+</td>
+<td valign="top" width="35%">
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHloYmF4N2JrN2xhM2V3bnFtdWpjdDcwaDNiN2R5dDlicmExdWVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FbftyUnve2Cju/giphy.gif"
+     alt="Research animation"
+     width="100%"/>
+
+</td>
+</tr>
+</table>
+>Technical skills:<br><br>Programming: Python, R<br><br>Genomics & data analysis workflows<br><br>Reproducible research and open science
 
 ![Plant Growing Time-lapse](https://media.giphy.com/media/QhLi1PvRCMxsQ/giphy.gif)
 
