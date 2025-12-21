@@ -1,3 +1,11 @@
+<p align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+    alt="Computational genomics animation"
+    width="100%"
+  />
+</p>
+
 # 💫 About Me:
 I am a Senior Research Fellow at ICAR–Indian Agricultural Research Institute (ICAR-IARI), New Delhi, India with a strong interdisciplinary focus on integrating data science and computational genomics into plant science and agriculture.<br><br>
 My research interests lie in genome-wide regulatory analysis, cis-regulatory element discovery, and the development of scalable bioinformatics pipelines for large plant genomes. I have designed and implemented CYC-GS, a computational pipeline for cis-element identification across whole plant genomes, enabling high-throughput regulatory landscape analysis.<br><br>
