@@ -10,15 +10,22 @@ Bioinformatics pipeline development<br><br>
 Data science applications in agriculture<br><br>
 
 </td>
-<td valign="top" width="35%">
+<td valign="top" width="45%">
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHloYmF4N2JrN2xhM2V3bnFtdWpjdDcwaDNiN2R5dDlicmExdWVieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FbftyUnve2Cju/giphy.gif"
-     alt="Research animation"
+     alt="Computational research animation"
+     width="100%"/>
+
+<br><br>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp2MG1vcno0a3RseTAzcXlwMW5qdnY0ZXB5MWdyeTF6dXg4YjRhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1US8nh5jtEKWM4YLCB/giphy.gif"
+     alt="Plant science visualization"
      width="100%"/>
 
 </td>
 </tr>
 </table>
+
 >Technical skills:<br><br>Programming: Python, R<br><br>Genomics & data analysis workflows<br><br>Reproducible research and open science
 
 ![Plant Growing Time-lapse](https://media.giphy.com/media/QhLi1PvRCMxsQ/giphy.gif)
