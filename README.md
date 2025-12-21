@@ -6,7 +6,7 @@
   />
 </p>
 
-![Growing Plants](https://github.com/your-username/your-repo/blob/main/assets/side-view-growing-plants.jpg?raw=true)
+![Growing Plants](https://github.com/your-username/your-repo/blob/main/assets-/side-view-growing-plants.jpg?raw=true)
 
 
 # 💫 About Me:
